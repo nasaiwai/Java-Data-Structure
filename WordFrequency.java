@@ -6,7 +6,6 @@ import java.util.LinkedList;
  * Program Assignment2
  * @author Nasa Iwai
  * @version July 11th, 2015
- * Student ID: A91431033
  *
  * The WordFrequency program counts how many times each word from the input appears, and then
  * outputs sequence of word/count pairs in various orderings.
